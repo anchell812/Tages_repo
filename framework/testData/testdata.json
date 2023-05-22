@@ -1,0 +1,20 @@
+{
+    "listOfPartners": "https://www.rolf.ru/,https://medsi.ru/,https://navigator.sk.ru/orn/1123852,https://www.ingos.ru,https://www.mvideoeldorado.ru/,https://leroymerlin.ru/,https://www.tn.ru/",
+    "tagesTelegram": "https://t.me/tagesru",
+    "titleOfTelegramPage": "Telegram: Contact @tagesru",
+    "titleOfVK": "TAGES.RU | ВКонтакте",
+    "tagesVK": "https://vk.com/tagesru",
+    "urlOfYoutube": "https://www.youtube.com/channel/UCBK5-lZpfKeu_yjH30DpvSQ",
+    "youtubeChannelName": "TAGES",
+    "feedbackFormData": {
+        "name": "",
+        "phone": "9211111111",
+        "company": "AAA",
+        "email": "email@mail.ru",
+        "comment": "comment"
+    },
+    "toHR": "HR",
+    "toSecretary": "jump",
+    "toPR": "pr"
+
+ }
